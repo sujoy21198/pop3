@@ -1,0 +1,14 @@
+* make traslation of registration page(done)
+* make the languages in all pages dynamic(done)
+* traslate dashboard and knowledge center(done)
+
+17-12-2021
+* change language on selection of language from any screen(Done)
+* intregate calculation of other crops(not done...pending)
+* study offline functionality
+
+18-02-2021
+* custodian (done)
+* language wise api integration( sending language to the headers)
+* study offline functionality(react-native-fs)
+* on going back the language is not changing
